@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary: rgb(56, 117, 222);
+    --primary-rgb: 56, 117, 222;
+    --primary-hover: #2962C4;
+    --primary-light: #eff5ff;
+    --primary-border: #d2e3fc;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    color: #0f172a;
+    background-color: #ffffff;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  /* Custom subtle scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #f8fafc;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
+}
+
+/* Floating animation utilities */
+@keyframes floatSlow {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes floatReverse {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(8px);
+  }
+}
+
+.animate-float-slow {
+  animation: floatSlow 4s ease-in-out infinite;
+}
+
+.animate-float-reverse {
+  animation: floatReverse 4.5s ease-in-out infinite;
+}
+
+.gradient-glow-blue {
+  background: radial-gradient(circle at 50% 50%, rgba(56, 117, 222, 0.16), transparent 70%);
+}
+
+.gradient-glow-cyan {
+  background: radial-gradient(circle at 50% 50%, rgba(56, 189, 248, 0.12), transparent 70%);
+}
+
+.bg-brand-primary {
+  background-color: #3875DE;
+}
+
+.text-brand-primary {
+  color: #3875DE;
+}
+
+.border-brand-primary {
+  border-color: #3875DE;
+}
