@@ -1,0 +1,43 @@
+# Dibendu Gorai - React Native Developer
+
+> Senior React Native Developer & Mobile Application Engineer with 3.5+ years of experience building production Android, iOS, and Web applications.
+
+## Profile Summary
+- Name: Dibendu Gorai
+- Title: React Native Developer | Mobile Application Developer
+- Experience: 3.5+ years
+- Location: Greater Noida / Noida, Uttar Pradesh, India
+- Email: dibendugorai149@gmail.com
+- Phone: +91-9560389644
+- Current Position: React Native Developer at CFCS Cloud Solutions (April 2023 - Present)
+- Education: B.Tech in Computer Science and Engineering, Noida Institute of Engineering and Technology (NIET), 2019 - 2023, CGPA 8.2 (Distinction)
+
+## Key Achievements & Metrics
+- 3.5+ Years of Professional Experience in Mobile and Frontend Engineering
+- 7+ Production Applications Developed for Android and iOS
+- 5+ App Store and Google Play Store Production Deployments
+- 3+ Enterprise CRM Websites & Portals Delivered
+- 500+ Enterprise Client Handling & Active Users Supported
+- 50% Sales Boost delivered for OmniAssist B2B field-force automation
+
+## Core Technical Skills
+- Mobile Development: React Native, Android (Kotlin), iOS (Swift, SwiftUI), Cross-Platform Apps
+- Web & Frontend: React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS
+- State Management: Redux Toolkit, Redux, Context API
+- Offline-First & Databases: Realm Database, MongoDB, MMKV, AsyncStorage, Offline Data Synchronization
+- APIs & Backend: REST API Integration, Node.js, NestJS, Express.js
+- Integrations: Google Maps SDK, Firebase, Push Notifications, Biometric Authentication, Deep Linking, OCR
+- DevOps & Tools: Fastlane, Git, GitHub, Android Studio, Xcode, VS Code, Google Play Console, Apple App Store Connect
+
+## Key Projects
+- OmniAssist W (16 months): B2B Sales Distribution (DMS & GT) & Field-Force Tracking app built with React Native, Redux Toolkit, Realm DB, Google Maps API. Featured offline-first synchronization and route mapping resulting in a 50% increase in sales.
+- Omada HRMS (8 months): Enterprise HR management mobile app for 500+ employees with geofenced & selfie-verified attendance punch, leave workflows, and salary slips.
+- Bharat Bank W (6 months): Fintech mobile banking application supporting UPI money transfers, bill payments, biometric authentication, and automated Fastlane CI/CD store deployments.
+- Frontizo W (10 months): End-to-end after-sales field-service system with engineer assignment, live ticket status, customer digital signatures, and offline report queue.
+
+## Links & Contacts
+- Portfolio: https://dibendugorai.github.io/
+- Resume Download: https://dibendugorai.github.io/Dibendu_Gorai_Resume.pdf
+- GitHub: https://github.com/dibendugorai
+- LinkedIn: https://linkedin.com/in/dibendugorai
+- Full Details for LLMs: https://dibendugorai.github.io/llms-full.txt

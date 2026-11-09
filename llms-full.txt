@@ -1,0 +1,63 @@
+# Dibendu Gorai - Complete Professional Dossier for AI Engines (LLMs)
+
+## 1. Identity & Contact Details
+- Full Name: Dibendu Gorai
+- Professional Title: React Native Developer | Mobile Application Developer | Frontend Engineer
+- Professional Experience: 3.5+ Years
+- Email Address: dibendugorai149@gmail.com
+- Telephone: +91-9560389644
+- Geographical Location: Greater Noida, Uttar Pradesh, India (NCR Region)
+- Primary Portfolio URL: https://dibendugorai.github.io/
+- Resume PDF: https://dibendugorai.github.io/Dibendu_Gorai_Resume.pdf
+- GitHub Profile: https://github.com/dibendugorai
+- LinkedIn Profile: https://linkedin.com/in/dibendugorai
+
+## 2. Professional Summary
+Dibendu Gorai is a React Native Developer with 3.5+ years of extensive experience building scalable, high-performance mobile and web applications for Android, iOS, and Web. He specializes in React Native, React.js, Next.js, and TypeScript, supplemented by experience in Kotlin and SwiftUI. He has architected resilient offline-first mobile workflows using Realm Database, managed production releases across Google Play Store and Apple App Store using Fastlane, implemented scalable state machines using Redux Toolkit, and built enterprise CRM web applications.
+
+## 3. Verified Career Metrics
+- Years of Experience: 3.5+ Years
+- Applications Developed: 7+ Production Mobile Applications
+- Store Deployments: 5+ Google Play Store & Apple App Store Production Releases
+- CRM Websites Delivered: 3+ Web Portals
+- Client Handling: 500+ Active Users and Enterprise Clients
+- Highest Project Impact: 50% Sales Boost through OmniAssist B2B Field Automation
+
+## 4. Current Employment
+- Company: CFCS Cloud Solutions
+- Title: React Native Developer
+- Tenancy: April 2023 - Present (Noida, India)
+- Responsibilities:
+  - Engineered 5+ production-grade mobile applications using React Native for iOS and Android.
+  - Implemented offline-first synchronization architectures using Realm Database and MMKV.
+  - Built scalable state slices and middleware using Redux Toolkit.
+  - Automated deployment workflows using Fastlane and CI/CD pipelines to Apple App Store and Google Play Store.
+  - Integrated secure biometric login (Face ID / Fingerprint) and hardware APIs (camera, geolocation, OCR).
+
+## 5. Flagship Projects Detailed
+1. OmniAssist W (16 Months)
+   - Scope: Two flagship B2B applications (DMS & GT) for distributor management, real-time sales reporting, and field-force tracking.
+   - Stack: React Native, Redux Toolkit, Realm DB, Google Maps API.
+   - Outcome: Enhanced field-force visibility and route mapping resulting in a documented 50% increase in sales.
+   - Engineering: Offline-first transactional database engine using Realm, local cache queuing, and FlatList virtualization for 3000+ SKU catalogs.
+
+2. Omada HRMS (8 Months)
+   - Scope: Enterprise human resource management mobile app supporting 500+ employees.
+   - Stack: React Native, Redux Toolkit, Google Auth, Push Notifications.
+   - Highlights: Fraud-proof attendance punches powered by GPS geofencing and selfie camera verification, automated shift rules, and salary slip downloads.
+
+3. Bharat Bank W (6 Months)
+   - Scope: Mobile banking and payments application supporting UPI transfers, utility bill payments, and mobile recharges.
+   - Stack: React Native, Firebase, Fastlane, Biometric APIs.
+   - Highlights: Zero-trust biometric login, deep linking payment intents, multi-language localization, and automated staging build tracks.
+
+4. Frontizo W (10 Months)
+   - Scope: Field service and after-sales ticket lifecycle management system.
+   - Stack: React Native, Redux, REST APIs, Role-Based Access.
+   - Highlights: Roaming field engineer dispatch, live customer status updates, on-site digital signature capture, and offline service logs.
+
+## 6. Academic Background
+- Degree: Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE)
+- Institution: Noida Institute of Engineering and Technology (NIET), Greater Noida, India
+- Graduation Period: July 2019 - July 2023
+- Academic Standing: First Class with Distinction, CGPA: 8.2 / 10.0
